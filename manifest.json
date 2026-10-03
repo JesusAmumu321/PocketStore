@@ -1,0 +1,11 @@
+{
+  "name": "PocketStore",
+  "short_name": "PocketStore",
+  "description": "Catálogo de productos disponible sin conexión después de la primera visita.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#12372a",
+  "lang": "es-MX"
+}
